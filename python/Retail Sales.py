@@ -1,4 +1,4 @@
-# 
+# Databricks notebook source
 # Synthetic Retail Dataset
 # Data Set Information
 # ====================
